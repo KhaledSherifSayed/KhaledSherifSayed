@@ -6,22 +6,21 @@
 
 
 ## Hi there 👋,           
-##### I'm Khaled Sherif, Graduated from Fcis 👨‍💻 2017. I love to build Android Application.  
+##### I'm Khaled Sherif and I Graduated from Fcis 👨‍💻 2017. I love to build Android Applications.  
 
 <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" width="340px" />
 
 ## 🧐 About
 - 🏄‍ Android Developer who loves to build Applications.
-- 😄 I usually like to make open source contributions.
-- 🤔 I’m looking for help with developers they have worked on video chats apps.
-- 💻 I'm currently core team member of GlobalOn Company in UAE.
-- 🌱 I love to learn new things and ready to help others.
-- 🎨 In my free time, you'll find me listening music or watching some series.
+- 😄 I usually like to make open-source contributions.
+- 🤔 I’m seeking help from developers who have worked on video chat apps.
+- 🌱 I love to learn new things and am ready to help others.
+- 🎨 In my free time, you'll find me listening to music or watching some series.
 
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 - 💬 Ask me about anything and everything! 
 - 📫 How to reach me: mail me at [khaledsherif296@gmail.com](mailto:khaledsherif296@gmail.com)
-- ⚡ Fun fact: I usually like coding at nights! 
+- ⚡ Fun fact: I usually like coding at night! 
 
