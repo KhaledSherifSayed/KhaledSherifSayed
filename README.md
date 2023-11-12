@@ -4,6 +4,7 @@
 [![Portfolio Badge](https://img.shields.io/badge/KhaledSherif-30302f?style=flat&logo=android)](https://khaledsherif296.myportfolio.com)
 [![Gmail Badge](https://img.shields.io/badge/khaledsherif296@gmai.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:khaledsherif296@gmai.com)
 
+<a href="https://github.com/KhaledSherifSayed"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=KhaledSherifSayed&hide=contribs&show_icons=true&include_all_commits=true&count_private=true&theme=normal"/></a>
 
 ## Hi there 👋,           
 ##### I'm Khaled Sherif and I Graduated from Fcis 👨‍💻 2017. I love to build Android Applications.  
